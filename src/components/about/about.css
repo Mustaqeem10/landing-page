@@ -1,0 +1,25 @@
+.about-container {
+    display: flex;
+    align-items: center;
+    background-color: #C4C4C4;
+    padding: 87px 130px 96px 133px;
+}
+
+.about-container img{
+    margin-right: 25px;
+}
+
+.about-container h2 {
+    margin-bottom: 40px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 50.6496px;
+    line-height: 59px;
+}
+
+.about-container p {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 22px;
+}

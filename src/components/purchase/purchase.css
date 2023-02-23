@@ -1,0 +1,32 @@
+.purchase-container {
+    padding: 150px 227px 138px 227px;
+    background-color: #EDEDED;
+}
+
+.purchase-container h2 {
+    text-align: center;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 50.6496px;
+    line-height: 59px;
+}
+
+.purchase-container button {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 30px;
+    padding: 19px 25px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 20.5491px;
+    line-height: 24px;
+    color: #FFFEFE;
+    background-color: #C4C4C4;
+    border: none;
+}
+
+.purchase-container button:hover {
+    cursor: pointer;
+}

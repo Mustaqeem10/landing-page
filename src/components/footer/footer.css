@@ -1,0 +1,31 @@
+.footer-section {
+    background-color: #1A1919;
+    padding: 16px 124.16px 16px 133px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.border-section {
+    display: flex;
+}
+
+.border-section p {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 41.0981px;
+    line-height: 48px;
+    text-align: center;
+    background-color: #C4C4C4;
+    width: 50px;
+    height: 48px;
+    margin-right: 22.03px;
+}
+
+.copyright-section p {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 20.5491px;
+    line-height: 24px;
+    color: #FFFFFF;
+}

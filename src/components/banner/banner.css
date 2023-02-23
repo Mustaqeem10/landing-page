@@ -1,0 +1,17 @@
+.banner-container {
+    color: #070707;
+    font-family: "Roboto";
+    padding: 145px 197px 157px 127px;
+    background-color: #F0F3F3;
+}
+
+.banner-container h4 {
+    font-weight: 400;
+    font-size: 41.4419px;
+    margin-bottom: 18px;
+}
+
+.banner-container h1 {
+    font-weight: 400;
+    font-size: 66px;
+}
